@@ -1,6 +1,7 @@
 # Data analysis
 This repository concentrate in data analysis and a prediction model. The dataset
 rows describing different jobs IDs.
+
 __The jobs' features are:__
 * JobId – a numerical (key) index
 * JobTitleId– the job title as explained above.
